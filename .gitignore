@@ -1,0 +1,5 @@
+# never commit binaries or local secrets
+*.apk
+*.aab
+*.keystore
+*.jks
